@@ -22,7 +22,7 @@ int main(void)
 	{
 	printf("%i is negative\n", n);
 	}
-	else 
+	else
 	{
 	printf("%i is positive\n", n);
 	}
