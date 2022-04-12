@@ -9,19 +9,19 @@
 int main(void)
 
 {
-	char lowerCase;
-	char upperCase;
+char lowerCase;
+char upperCase;
 
-	for (lowerCase = 'a'; lowerCase <= 'z'; lowerCase++)
-        {
-                putchar(lowerCase);
-        }
+for (lowerCase = 'a'; lowerCase <= 'z'; lowerCase++)
+{
+putchar(lowerCase);
+}
 
-	for (upperCase = 'A'; upperCase <= 'Z'; upperCase++)
-	{
-		putchar(upperCase);
-	}
+for (upperCase = 'A'; upperCase <= 'Z'; upperCase++)
+{
+putchar(upperCase);
+}
 
 	putchar ('\n');
-	return (0);
+return (0);
 }
