@@ -5,7 +5,7 @@
 * @s1: A pointer to a character that will be updated
 * @s2: A pointer to a character that will also be updated
 * 
-* Return: dest
+* Return: int
 */
 
 int _strcmp(char *s1, char *s2)
