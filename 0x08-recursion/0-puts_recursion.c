@@ -2,6 +2,7 @@
 
 /**
  * _puts_recursion - prints a string
+ *@s: pointer
  *
  * Return: 0 
  */
