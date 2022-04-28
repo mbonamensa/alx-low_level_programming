@@ -14,6 +14,6 @@ return (0);
 }
 
 _puts_recursion() {
-	_putchar("This is my string %s\n", *s);
-	return (*s);
+	char *s[] = "This is my string";
+	_putchar("%s\n", *s);
 }
